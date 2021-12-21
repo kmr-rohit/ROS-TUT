@@ -36,8 +36,11 @@ You will see a message build succesfull. <br>
 
 
 ## For Constructsim users: 
-1. run rosject made in task 2
+
+1. run rosject made in task 2. 
+
 2.open shell and write <code>cd simulation_ws/</code>
+
 3. type in shell <code>git clone https://github.com/rk972006/ROS-TUT</code>
 4. You have to Move all files from ROS-TUT folder to src folder and then delete ROS-TUT folder. Follow vedio below:
 
