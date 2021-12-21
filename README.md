@@ -27,4 +27,4 @@ You will see a message build succesfull. <br>
    
        <code> source ./devel/setup.bash  </code><br>
 
-       <code> roslaunch m2</code>
+       <code> roslaunch m2wr_description</code>
