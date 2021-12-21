@@ -32,16 +32,26 @@ You will see a message build succesfull. <br>
        
        You will able to see a gazebo window along with Bot centered at origin.
        
-       
+      
+
+
 ## For Constructsim users: 
 1. run rosject made in task 2
 2.open shell and write <code>cd simulation_ws/</code>
-3.  <code> source ./devel/setup.bash  </code><br>
+3. type in shell <code>git clone https://github.com/rk972006/ROS-TUT</code>
+4. You have to Move all files from ROS-TUT folder to src folder and then delete ROS-TUT folder. Follow vedio below:
 
-       <code> roslaunch m2wr_description spawn.launch</code><br>
-       open a new terminal and type <code> rosrun gazebo_ros gazebo </code>
+<vedio> https://user-images.githubusercontent.com/80917122/146980209-b62166b9-82e8-4f9a-874d-f6d4e70e2e5c.mp4 </vedio>
+
+
+
+
+5.run the following commands  <code> source ./devel/setup.bash  </code><br>
+
+  <code> roslaunch m2wr_description spawn.launch</code><br>
+  open a new terminal and type <code> rosrun gazebo_ros gazebo </code>
        
-       click gazebo/open gazebo  tab in bottom menu 
-       you will able to find a bot centered at origin. 
+   click gazebo/open gazebo  tab in bottom menu 
+   you will able to find a bot centered at origin. 
        
        
