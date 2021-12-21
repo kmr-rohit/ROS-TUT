@@ -27,4 +27,21 @@ You will see a message build succesfull. <br>
    
        <code> source ./devel/setup.bash  </code><br>
 
-       <code> roslaunch m2wr_description</code>
+       <code> roslaunch m2wr_description spawn.launch</code><br>
+       open a new terminal and type <code> rosrun gazebo_ros gazebo </code>
+       
+       You will able to see a gazebo window along with Bot centered at origin.
+       
+       
+## For Constructsim users: 
+1. run rosject made in task 2
+2.open shell and write <code>cd simulation_ws/</code>
+3.  <code> source ./devel/setup.bash  </code><br>
+
+       <code> roslaunch m2wr_description spawn.launch</code><br>
+       open a new terminal and type <code> rosrun gazebo_ros gazebo </code>
+       
+       click gazebo/open gazebo  tab in bottom menu 
+       you will able to find a bot centered at origin. 
+       
+       
