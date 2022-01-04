@@ -28,7 +28,7 @@ You will see a message build succesfull. <br>
        <code> source ./devel/setup.bash  </code><br>
 
        <code> roslaunch m2wr_description spawn.launch</code><br>
-       open a new terminal and type <code> rosrun gazebo_ros gazebo </code>
+       
        
        You will able to see a gazebo window along with Bot centered at origin.
        
@@ -52,7 +52,6 @@ You will see a message build succesfull. <br>
 5.run the following commands  <code> source ./devel/setup.bash  </code><br>
 
   <code> roslaunch m2wr_description spawn.launch</code><br>
-  open a new terminal and type <code> rosrun gazebo_ros gazebo </code>
        
    click gazebo/open gazebo  tab in bottom menu 
    you will able to find a bot centered at origin. 
